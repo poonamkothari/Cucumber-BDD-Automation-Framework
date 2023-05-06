@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>cbd</groupId>
-  <artifactId>CucumberBDDProject</artifactId>
+  <artifactId>Cucumber-BDD-Automation-Framework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>CucumberBDDProject</name>
+  <name>Cucumber-BDD-Automation-Framework</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
